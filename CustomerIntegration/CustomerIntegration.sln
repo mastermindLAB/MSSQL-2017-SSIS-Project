@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CustomerIntegration", "CustomerIntegration\CustomerIntegration.dtproj", "{6D13A266-F556-4831-9FDC-5938CA381FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D13A266-F556-4831-9FDC-5938CA381FC3}.Development|Default.ActiveCfg = Development
+		{6D13A266-F556-4831-9FDC-5938CA381FC3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7590F98A-F96A-4B52-8BF1-ACE982CEB600}
+	EndGlobalSection
+EndGlobal
