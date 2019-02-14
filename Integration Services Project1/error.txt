@@ -1,3 +1,1 @@
-1002,RAJU,-200,2/2/2012,Nepal,Kathmandu,Shirts,Raju,-200
-1006,RAHUL,-100,3/2/2015,India,Maharastra,Toys,Khadak,-100
-1007,ROHIT,0,4/5/2015,US,NewYork,Shoes,Raju,0
+1013,PRADIP,-700,5/10/2014,Nepal,Kathmandu,Shirts,Shiv,-700
