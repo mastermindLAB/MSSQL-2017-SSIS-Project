@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-3LBAL2D.DataWarehouse"
+  DTS:DTSID="{8375E061-8CBE-4ED0-BF8E-10D150B370C9}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-3LBAL2D;Initial Catalog=DataWarehouse;Integrated Security=True;Application Name=SSIS-Integration Services Project4-{8375E061-8CBE-4ED0-BF8E-10D150B370C9}DESKTOP-3LBAL2D.DataWarehouse;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
