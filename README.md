@@ -9,7 +9,7 @@ Microsoft SQL server 2017 ETL project
             **Type2 with Historical data in the database if there is any changes or update
             **OLEDB Command
             **Parameters and Sequence in OLEDB command
-            **Unicode and non-inicode characters
+            **Unicode and non-unicode characters mapping between SQL server and SSIS (data conversion)
 
 ****Main package includes****
 
