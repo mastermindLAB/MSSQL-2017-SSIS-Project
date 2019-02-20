@@ -1,7 +1,7 @@
 # MSSQL-2017-SSIS-Project
 Microsoft SQL server 2017 ETL project
 
-****Added four packages in the integration service project4****
+****Integration service project4 stracture****
 
 ****1.Main package includes****
 
