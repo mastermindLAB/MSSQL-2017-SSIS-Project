@@ -7,8 +7,11 @@ Microsoft SQL server 2017 ETL project
 
   ****a)Country.dtsx****
   
-  ****b)FactCustomer.dtsx****
-  
+ 
+  b)FactCustomer.dtsx
+ 
   c)Product.dtsx
+  
   d)SalesPerson.dtsx
+  
   e)States.dtsx
