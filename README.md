@@ -5,12 +5,12 @@ Microsoft SQL server 2017 ETL project
 
 ****1.Main package includes****
 
-  a)Country.dtsx n\  
+    a)Country.dtsx
  
-  b)FactCustomer.dtsx
+    b)FactCustomer.dtsx
  
-  c)Product.dtsx
+    c)Product.dtsx
   
-  d)SalesPerson.dtsx
+    d)SalesPerson.dtsx
   
-  e)States.dtsx
+    e)States.dtsx
