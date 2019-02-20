@@ -11,7 +11,7 @@ Microsoft SQL server 2017 ETL project
             **Parameters and Sequence in OLEDB command
             **Unicode and non-inicode characters
 
-****1.Main package includes****
+****Main package includes****
 
     a)Country.dtsx
  
