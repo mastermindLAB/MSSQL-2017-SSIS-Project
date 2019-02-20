@@ -5,8 +5,7 @@ Microsoft SQL server 2017 ETL project
 
 ****1.Main package includes****
 
-  ****a)Country.dtsx****
-  
+  a)Country.dtsx n\  
  
   b)FactCustomer.dtsx
  
